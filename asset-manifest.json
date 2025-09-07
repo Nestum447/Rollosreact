@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rollosreact/static/css/main.07054a86.css",
+    "main.js": "/Rollosreact/static/js/main.5c3415df.js",
+    "index.html": "/Rollosreact/index.html",
+    "main.07054a86.css.map": "/Rollosreact/static/css/main.07054a86.css.map",
+    "main.5c3415df.js.map": "/Rollosreact/static/js/main.5c3415df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07054a86.css",
+    "static/js/main.5c3415df.js"
+  ]
+}
